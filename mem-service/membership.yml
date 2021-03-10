@@ -1,4 +1,5 @@
 member:
+ env: main
  rent:
   min: 7
   max: 30
