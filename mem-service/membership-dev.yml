@@ -1,4 +1,4 @@
-env: dev
+env: devZZ
 member:
  rent:
   min: 8
