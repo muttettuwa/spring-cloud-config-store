@@ -1,5 +1,5 @@
+env: QA
 member:
- env: QA
  rent:
   min: 10
   max: 33

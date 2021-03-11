@@ -1,5 +1,5 @@
+env: prod
 member:
- env: prod
  rent:
   min: 5
   max: 40

@@ -1,5 +1,5 @@
+env: dev
 member:
- env: dev
  rent:
   min: 8
   max: 31
